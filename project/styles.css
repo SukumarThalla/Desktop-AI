@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+ width:100%;
+  background-image: url('/home/vassara/Videos/project/860x394.jpg'); /* Replace 'background.jpg' with the path to your image */
+    background-size: cover; /* Adjusts the size of the background image to cover the entire body */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; 
+    border-radius:40px;
+ height:100%;/* Prevents the background image from repeating */
+
+  
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    background:img src('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fperson-using-voice-control-virtual-assistant-concept-artificial-intelligence-microphone-recognition_26784442.htm&psig=AOvVaw1HHIS63LHh1Xb7Y4GSit4n&ust=1713509467034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDpobOWy4UDFQAAAAAdAAAAABAE');
+   background-image: url('/home/vassara/Videos/project/giphy.gif'); /* Replace 'background.jpg' with the path to your image */
+    background-size: cover; /* Adjusts the size of the background image to cover the entire body */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; 
+    border-radius:40px;
+ 
+}
+
+h1 {
+   
+     font-family: Arial, sans-serif; /* Specify the font family */
+    font-size: 52px; /* Set the font size */
+    color: white; /* Set the text color */
+    text-align: center; /* Center-align the heading */
+    margin-top: 240px; /* Add some top margin */
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+    border-color:black;
+    border-radius:140px;
+    width:100%;
+    height:100%;
+}
+
+.card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex: 1;
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQclvvryNW8HoOqdB-NSzsIjILRY5WEwrxQg2XwrTmusA&s'); /* Replace 'background.jpg' with the path to your image */
+    background-size: cover; /* Adjusts the size of the background image to cover the entire body */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; 
+    width:450px;
+    height:250px;
+    margin:30px;
+     border-radius:40px;
+}
+.card2 {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex: 1;
+     background-image: url('https://t4.ftcdn.net/jpg/02/27/90/81/360_F_227908154_1wk63QM5GiWnXjfjFF3zlFWL2NVEvr8m.jpg'); /* Replace 'background.jpg' with the path to your image */
+    background-size: cover; /* Adjusts the size of the background image to cover the entire body */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; 
+    width:450px;
+    height:250px;
+     border-radius:40px;
+    margin:30px;
+}
+
+button {
+    background-color:green;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+
+}
+
+color:
